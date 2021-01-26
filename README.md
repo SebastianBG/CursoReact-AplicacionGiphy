@@ -1,6 +1,10 @@
 # Aplicación de lectura de la API de giphy con React
 
-Apliación creada para el curso de React: De cero a experto ( Hooks y MERN ) en Udemy, que consiste en la lectura de la API de giphy, incluye un buscador para que el usuario pueda escoger que tipo de imágenes .gif desea ver, despliega un máximo de 10 imágenes por búsqueda.
+Aplicaión creada para el curso de React: De cero a experto ( Hooks y MERN ) en Udemy, que consiste en la lectura de la API de giphy, incluye un buscador para que el usuario pueda escoger que tipo de imágenes .gif desea ver, despliega un máximo de 10 imágenes por búsqueda.
+
+# Vista Previa
+
+https://sebastianbg.github.io/CursoReact-AplicacionGiphy/
 
 ## Available Scripts
 
